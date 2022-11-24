@@ -5,7 +5,7 @@
 
 ## :fire: Run
 
-Is necessary crete a `.env` file with these info.
+Is necessary create a `.env` file with these info.
 
 ```
 SPOTIFY_CLIENT_ID=<your client id>
